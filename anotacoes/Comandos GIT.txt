@@ -1,0 +1,34 @@
+Comandos GitBash
+
+Console:
+
+ls - O mesmo que dir no DOS.
+clear - limpar o bash.
+cd .. - voltar uma pasta acima.
+cd/ - diretorio raiz do git.
+cd ~ - diretorio Users/nome_do_perfil.
+
+Criar e inicializar
+
+git init - iniciar projeto de git dentro de diretório existente.
+git init [nome do repositorio] - cria um novo repositório.
+git clone [url] - clona um repositorio remoto pra uma pasta local.
+
+Staging e Commit
+
+git add [nome do arquivo] - adiciona o arquivo para a staging area/branch.
+git add* - adiciona um ou mais arquivos para a staging area/branch.
+git add. - adiciona todos os arquivos para a staging area/branch.
+git rm - deleta o arquivo do diretorio de trabalho.
+git status - lista todos os arquivos que precisam fazer o commit.
+git diff - lista as mudanças que não foram listadas. 
+git commit -m "[mensagem de commit]" - esse comando grava as mudanças permanentemente no histórico de versão do repositório.
+git commit -a - executa o commit em todos os arquivos modificados no repositório.
+
+Atualizar e compartilhar
+
+git push - mandar os arquivos atualizados para o repositório remoto.
+git pull [link do repositorio]- puxar os arquivos atualizados do diretório remoto.
+
+Configurar
+
