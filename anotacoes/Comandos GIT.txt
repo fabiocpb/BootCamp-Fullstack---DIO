@@ -32,3 +32,4 @@ git pull [link do repositorio]- puxar os arquivos atualizados do diretório remo
 
 Configurar
 
+git config --list
