@@ -13,6 +13,7 @@ Criar e inicializar
 git init - iniciar projeto de git dentro de diretório existente.
 git init [nome do repositorio] - cria um novo repositório.
 git clone [url] - clona um repositorio remoto pra uma pasta local.
+git remote add [nome do repositório] [url] - configura um repositório remoto.
 
 Staging e Commit
 
