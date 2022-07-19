@@ -1,1 +1,3 @@
 typescript/node_modules/
+typescript/.cache/
+typescript/dist/
